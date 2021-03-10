@@ -13,6 +13,6 @@ Para criação do chat-bot, foi utilizado a API QnA Maker da Microsoft Azure, on
 (todos os dados foram atualizados em novembro de 2020)
 
 # 
-|Chat-Bot|DashBoard│
+|Chat-Bot|DashBoard
 | --- | --- |
 | ![sample Chat-Bot](https://i.imgur.com/7Aki831.gif) | ![sample DashBoard](https://i.imgur.com/lRMHiJt.gif) |
