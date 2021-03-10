@@ -1,0 +1,57 @@
+header .logo-site{
+    margin: -100px 0;
+    max-width: 50px;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 3em;
+}
+
+.grafico1{
+    width: 50%;
+}
+
+.grafico2{
+    width: 50%; 
+    position: relative; 
+    left:50%;
+}
+
+.grafico3{
+    width: 50%; 
+    position: relative; 
+    top:500px;
+}
+
+.grafico4{
+    width: 50%; 
+    position: relative; 
+    top:500px; 
+    left: 50%;
+}
+
+.grafico5{
+    width: 50%; 
+    position: relative; 
+    top:1000px; 
+    left: 25%;
+}
+
+.pesquisa{
+    position: relative;
+    top: 1500px;
+    padding-bottom: 20px;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.tabela{
+    position: relative;
+    top: 1500px;
+    margin-right: 10%;
+}
+
+main{
+    margin-left: 10px;
+}
