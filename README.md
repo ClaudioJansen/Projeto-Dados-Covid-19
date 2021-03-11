@@ -4,7 +4,7 @@ O projeto I-Sars foi desenvolvido com o intuito de informar e orientar as pessoa
 
 O site conta com um chat-bot que fornece informações confiáveis sobre a COVID-19, gráficos informativos sobre números de casos e mortes por estado do Brasil, além de permitir o usuário pesquisar sua cidade para saber o número de casos da mesma e permite verificar o número de casos por bairro da cidade de Belo Horizonte.
 
-## Mineração de Dados
+## Mineração de Dados e Banco de Dados
 
 Para mineração dos dados foi feito um programa em Java, que usa informações sobre coronavírus extraidos da base de dados do governo, e armazena num banco PostgreSQL.
 
